@@ -13,4 +13,5 @@ AI for social movement studies. Datasets, models and researches.
 
 ## Researches
 
+- 2021 [Protest Event Analysis: Developing a Semiautomated NLP Approach](https://journals.sagepub.com/doi/full/10.1177/00027642211021650)
 - 2019 [How Saudi Crackdowns Fail to Silence Online Dissent](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-saudi-crackdowns-fail-to-silence-online-dissent/1BA13DF8FD5D04EC181BCD4D1055254B)
