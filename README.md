@@ -12,6 +12,8 @@ AI for social movement studies. Datasets, models and researches.
 
 ## Models
 
+- 2021 [few-shot-upsampling-for-protest-size-detection](https://github.com/benradford/few-shot-upsampling-for-protest-size-detection)
+
 ## Researches
 
 - 2021 [Protest Event Analysis: Developing a Semiautomated NLP Approach](https://journals.sagepub.com/doi/full/10.1177/00027642211021650)
