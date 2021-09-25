@@ -10,6 +10,7 @@ AI for social movement studies. Datasets, models and researches.
 - 2020 [PolDem protest events](https://poldem.eui.eu/download/protest-events/)
 - 2019 [Hong-Kong-Protest-News-Classification](https://github.com/Junchi0905/Hong-Kong-Protest-News-Classification)
 - 2017 [UCLA Protest Image](https://github.com/wondonghyeon/protest-detection-violence-estimation)
+- 2015 [The Media Frames Corpus](https://github.com/dallascard/media_frames_corpus)
 
 ## Models
 
