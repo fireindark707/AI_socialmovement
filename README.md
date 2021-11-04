@@ -22,6 +22,7 @@ AI for social movement studies. Datasets, models and researches.
 - 2021 [Modeling Framing in Immigration Discourse on Social Media](https://arxiv.org/abs/2104.06443)
 - 2020 [Anatomy of a Protest: Spatial Information, Social Media, and Urban Space](https://journals.sagepub.com/doi/full/10.1177/2056305119897320)
 - 2020 [An NLP-Powered Human Rights Monitoring Platform](https://www.sciencedirect.com/science/article/pii/S0957417420301901?casa_token=Y8EQjHT_KDAAAAAA:EGnn1EWL3tv4f19K3zvjnmdJpwWVw7RfR_Dk0wRhWyXcHILAL4_o_nNBFNqetT6bToonoJO1o-o)
+- 2020 [Rethinking the “social” in “social media”: Insights into topology, abstraction, and scale on the Mastodon social network](https://journals.sagepub.com/doi/pdf/10.1177/1461444820912533?casa_token=LzXOBpX72yMAAAAA:7yVk1ZJL1gA6GSNB1NBc3_bF1tw3e24LgBuLRlpxME5TlIE3wuBldLY6jTySwmYB-4-DtF8Ypt-y9g)
 - 2019 [How Saudi Crackdowns Fail to Silence Online Dissent](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-saudi-crackdowns-fail-to-silence-online-dissent/1BA13DF8FD5D04EC181BCD4D1055254B)
 
 ## Related Agencies
