@@ -25,6 +25,7 @@ AI for social movement studies. Datasets, models and researches.
 - 2020 [Rethinking the “social” in “social media”: Insights into topology, abstraction, and scale on the Mastodon social network](https://journals.sagepub.com/doi/pdf/10.1177/1461444820912533?casa_token=LzXOBpX72yMAAAAA:7yVk1ZJL1gA6GSNB1NBc3_bF1tw3e24LgBuLRlpxME5TlIE3wuBldLY6jTySwmYB-4-DtF8Ypt-y9g)
 - 2019 [How Saudi Crackdowns Fail to Silence Online Dissent](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/how-saudi-crackdowns-fail-to-silence-online-dissent/1BA13DF8FD5D04EC181BCD4D1055254B)
 - 2018 [Follow the “Mastodon”: Structure and Evolution of a Decentralized Online Social Network](https://ojs.aaai.org/index.php/ICWSM/article/download/14988/14838)
+- 2016 [Constructing an Annotated Corpus for Protest Event Mining](https://aclanthology.org/W16-5613.pdf)
 
 ## Related Agencies
 
